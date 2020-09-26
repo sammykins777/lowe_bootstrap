@@ -1,0 +1,49 @@
+/* * {
+    border: red solid 1px;
+} */
+
+.jumbotron h1 {
+    font-size: 3.5rem;
+    
+}
+
+main h2 {
+    background-color: #666666;
+    color: white;
+    padding: 10px 0 10px 20px;
+} 
+
+section ul li {
+    padding-top: 20px;
+}
+.pics {
+    margin-bottom: 20px;
+}
+.pics p {
+    font-style: italic;
+}
+
+aside p {
+    padding: 12px;
+    background: #e6e6e6;
+}
+
+footer {
+     margin-top: 50px;
+    height: 50px;
+    background: #b3b3b3;
+    font-size: .8rem;
+}
+
+.flex {
+
+  align-items: center;
+ height: 100%;
+    
+}
+.footer-info {
+    padding:10px;
+    /* border: solid red 1px; */
+   
+   
+}
